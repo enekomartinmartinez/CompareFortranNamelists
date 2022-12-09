@@ -5,3 +5,4 @@ __pycache__
 # Outputs
 *.json
 *.odt
+*.xlsx
